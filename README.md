@@ -101,13 +101,3 @@ npm run dev
 
 <br/>
 
-## 프로젝트 팀원
-
-| 이름 | 역할 | 맡은 업무 |
-| --- | --- | --- |
-| 박유신 | Frontend / 팀장 |   |
-| 김지연 | Frontend |  |
-| 안지영 | Frontend |  |
-| 홍경진 | Frontend |  |
-| 주현정 | Backend |  |
-| 이다연 | Backend | <img src="https://img.shields.io/badge/반려동물%20CRUD-6D987A"/>  <img src="https://img.shields.io/badge/댓글%20CRUD-6D987A"/>  <img src="https://img.shields.io/badge/반려동물%20진료기록%20CRUD-6D987A"/>  <img src="https://img.shields.io/badge/병원%20약국%20조회%20및%20검색-6D987A"/> |
